@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.geom.*;
 
 public class Cat {//Cat Class
-	// drawing constants are private - noone needs to know what we're doing
+	// drawing constants are private - no one needs to know what we're doing
 	// pick a head dimension
 	private static final int HEAD_DIMENSION = 100;
 	// eyes will be about 1/4 from top of head and 1/4 from left
